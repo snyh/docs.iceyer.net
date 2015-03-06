@@ -1,0 +1,10 @@
+site_name: Deepin Developer Doc Center
+
+theme_dir: theme/dmkdocs
+
+pages:
+    # Home
+     - ['index.md', '首页']
+    # # Develop Guide
+     - ['oauth2/index.md', '帐号接入', '登录认证']
+    #
