@@ -17,9 +17,9 @@ Access-Token: MDRjZGJlYTctMDFjMy00YzM0LWEyNjctMGQ0N2U5YTBlZTBh
 access_token=MDRjZGJlYTctMDFjMy00YzM0LWEyNjctMGQ0N2U5YTBlZTBh
 ```
 
-## 授权接口
+## 认证/授权接口
 
-### 1 Authorize接口 
+### 1 Authorize接口
 
 #### 1.1 API Endpoint
 

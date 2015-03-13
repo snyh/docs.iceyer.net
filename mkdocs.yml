@@ -1,10 +1,15 @@
-site_name: Deepin Developer Doc Center
+site_name: Deepin Developer Documents
 
+#theme: readthedocs
 theme_dir: theme/dmkdocs
 
 pages:
     # Home
      - ['index.md', '首页']
+    # # Design 
+     - ['design/authentication.md', '单点登录', '设计方案']
+     - ['design/sync-state.md', '单点登录', '状态同步接口']
     # # Develop Guide
      - ['oauth2/index.md', '帐号接入', '登录认证']
+     - ['admin/useramdin.md', '数据管理', '用户管理']
     #
