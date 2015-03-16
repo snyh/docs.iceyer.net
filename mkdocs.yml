@@ -7,9 +7,10 @@ pages:
     # Home
      - ['index.md', '首页']
     # # Design 
-     - ['design/authentication.md', '单点登录', '设计方案']
-     - ['design/sync-state.md', '单点登录', '状态同步接口']
+     - ['design/authentication.md', '设计方案', '单点登录']
+     - ['design/sync-state.md', '设计方案', '状态同步接口']
     # # Develop Guide
-     - ['oauth2/index.md', '帐号接入', '登录认证']
-     - ['admin/useramdin.md', '数据管理', '用户管理']
+     - ['api/rest.md', '接口文档', '接口设计']
+     - ['api/oauth2.md', '接口文档', '登录认证']
+     - ['api/user.md', '接口文档', '用户管理']
     #
