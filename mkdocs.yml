@@ -9,6 +9,7 @@ pages:
     # # Design 
      - ['design/authentication.md', '设计方案', '单点登录']
      - ['design/sync-state.md', '设计方案', '状态同步接口']
+     - ['design/bucket.md', '设计方案', '公共存储']
     # # Develop Guide
      - ['api/rest.md', '接口文档', '接口设计']
      - ['api/oauth2.md', '接口文档', '登录认证']
