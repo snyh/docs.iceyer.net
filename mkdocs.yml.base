@@ -8,7 +8,3 @@ repo_url: https://github.com/Iceyer/docs.iceyer.net/
 copyright: Copyright &copy; 2015, Deepin
 
 pages:
-    - ['index.md', '首页', '']
-    - ['guide/start.md', '文档服务', '编写指南']
-    - ['api/rest.md', 'DeepinID', '接口设计']
-    - ['api/oauth2.md', 'DeepinID', 'OAuth2接口']

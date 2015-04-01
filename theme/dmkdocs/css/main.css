@@ -1,0 +1,15 @@
+/* Breadcrumbs */
+.breadcrumb {
+  margin-bottom: 16px;
+  padding: 0 8px;
+  color: rgb(93, 96, 107);
+  background: transparent;
+}
+
+.breadcrumb a {
+  color: rgb(93, 96, 107);
+}
+
+.breadcrumb a:hover {
+  color: #4fc3f7;
+}

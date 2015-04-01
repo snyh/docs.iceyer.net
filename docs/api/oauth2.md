@@ -1,3 +1,6 @@
+category:DeepinID
+title:OAuth2接口
+
 ## 认证流程
 
 DeepinID通过标准的OAuth2协议实现登录认证服务
