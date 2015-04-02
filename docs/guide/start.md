@@ -42,4 +42,4 @@ DO NOT Delete Meta Above -->
 
 ### 4 提交页面
 
-修改完毕后，请直接push到develop分支即可。
+修改完毕后，请直接push到master分支即可。
