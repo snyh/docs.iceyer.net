@@ -44,10 +44,10 @@ if __name__=="__main__":
     meta["category"]=sys.argv[1]
     meta["title"]=sys.argv[2]
 
-    mdmeta = ""
+    mdmeta = "<!--Meta\n"
     for k, v in meta.items():
         mdmeta += k+":"+v+"\n"
-    mdmeta += "<!-- DO NOT Modify meta above -->\n"
+    mdmeta += "DO NOT Delete Meta Above -->\n"
 
     path = "docs/" + file
     try:
